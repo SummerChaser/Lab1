@@ -1,7 +1,7 @@
 package project_one;
 
 import java.util.List;
-//修改记录1
+//修改记录2
 public class Graph{
 	int wordNum;//顶点数
 	List<String> wordList; //顶点集
